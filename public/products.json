@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Mountain Bike X1",
+      "description": "A high-performance mountain bike for all terrains.",
+      "price": 599.99,
+      "image": "/images/mountain-bike-x1.jpg",
+      "brand": "BikeMax",
+      "category": "Bike",
+      "rating": 4.5,
+      "compatibleModels": ["All Terrain", "Hill Climber"],
+      "recommendations": 120,
+      "views": 1500
+    },
+    {
+      "id": 2,
+      "name": "Running Shoes Pro",
+      "description": "Professional-grade running shoes for serious athletes.",
+      "price": 129.99,
+      "image": "/images/running-shoes-pro.jpg",
+      "brand": "SpeedFoot",
+      "category": "Running",
+      "rating": 4.8,
+      "compatibleModels": ["Road Runner", "Trail Blazer"],
+      "recommendations": 89,
+      "views": 980
+    },
+    {
+      "id": 3,
+      "name": "Car Stereo System",
+      "description": "High-quality car stereo system for an immersive audio experience.",
+      "price": 199.99,
+      "image": "/images/car-stereo-system.jpg",
+      "brand": "AutoSound",
+      "category": "Car",
+      "rating": 4.2,
+      "compatibleModels": ["Sedan", "SUV", "Truck"],
+      "recommendations": 56,
+      "views": 750
+    },
+    {
+      "id": 4,
+      "name": "Basketball",
+      "description": "Professional-grade basketball for indoor and outdoor play.",
+      "price": 29.99,
+      "image": "/images/basketball.jpg",
+      "brand": "HoopMaster",
+      "category": "Sports",
+      "rating": 4.7,
+      "compatibleModels": ["Indoor", "Outdoor"],
+      "recommendations": 210,
+      "views": 2200
+    }
+  ]
+}
